@@ -1,0 +1,17 @@
+[
+    {
+        "name" : "Paolo",
+        "age" : "21",
+        "nationality": "Filipino"
+    },
+    {
+        "name" : "John",
+        "age" : "22",
+        "nationality": "Filipino"
+    },
+    {
+        "name" : "Pedro",
+        "age" : "23",
+        "nationality": "Filipino"
+    }
+]
